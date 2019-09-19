@@ -1,0 +1,12 @@
+<?xml version = "1.0"?>
+<project default="run" name = "Junyong - compile and run">
+    
+    <target name="run" depends = "compile">
+     </target>
+    <target name="compile">
+	<javac srcdir="./" destdir="./" />
+    </target>
+
+ 
+
+</project>
