@@ -1,0 +1,13 @@
+// Junyong Lee
+// 800623507
+
+1. Estimate the time it will take you to do the assignment, to within a quarter-hour: __5hours___
+
+2. Estimate the time it took you to complete the assignment, broken down as:
+
+    Thought/Design: _____2hours________
+    Programming: _______1hours__________
+    Debugging: _______30minutes____________
+    TOTAL: ______3hours 30 minutes_____
+
+3. To within what percent accuracy was your original estimate: ______70%__________
