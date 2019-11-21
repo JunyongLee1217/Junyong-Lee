@@ -1,0 +1,18 @@
+//Junyong Lee
+// 800623507
+
+
+[functional error]
+
+There is a functional error in iglooscore2. In the main function, there is a statement like:
+
+(args==null || args.length != 3)
+
+
+args==null can't be hit because we can't pass null string through xml. (We should use different package for doing this.
+
+[Bug fix]
+In IglooScore1.java, I observed overallScore() has wrong logic for setting s with comparing score1 and score2. It had wrong relational operator, so I fixed it.
+
+
+
